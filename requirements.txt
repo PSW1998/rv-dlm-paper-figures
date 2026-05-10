@@ -1,0 +1,6 @@
+# Core dependencies for paper_figures.py
+numpy
+pandas
+matplotlib
+scipy
+yfinance
