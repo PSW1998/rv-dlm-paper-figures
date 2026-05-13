@@ -125,8 +125,7 @@ SV_USES_LAGGED_RV = True
 #   RV/RVL score y_t after observing z_t:
 #       log p(y_t | z_t, D_{t-1})
 #
-# If False:
-#   older MATLAB-order score where log_py is computed before z update.
+
 RV_PRICE_SCORE_AFTER_Z = True
 
 # Output folder matching LaTeX:
